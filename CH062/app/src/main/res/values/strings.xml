@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CH06練習五</string>
+    <string name="_0">0</string>
+    <string-array name="start_city">
+        <item>台北</item>
+        <item>桃園</item>
+        <item>新竹</item>
+        <item>台中</item>
+        <item>嘉義</item>
+        <item>台南</item>
+        <item>高雄</item>
+    </string-array>
+    <string-array name="final_city">
+        <item>台北</item>
+        <item>桃園</item>
+        <item>新竹</item>
+        <item>台中</item>
+        <item>嘉義</item>
+        <item>台南</item>
+        <item>高雄</item>
+    </string-array>
+</resources>
